@@ -1,0 +1,8 @@
+{
+  "name": "rabbitmq-node-prototype",
+  "version": "1.0.0",
+  "description": "RabbitMQ amqp.node RPC example app",
+  "dependencies": {
+	  "amqplib": "^0.3.2"
+  }
+}
